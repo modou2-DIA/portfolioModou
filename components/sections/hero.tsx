@@ -61,21 +61,21 @@ export default function Hero() {
 
             <div className="flex gap-6 pt-4">
               <a
-                href="https://github.com"
+                href="https://github.com/modou2-DIA"
                 className="p-3 bg-card rounded-lg hover:bg-primary hover:text-primary-foreground transition-colors"
                 aria-label="GitHub"
               >
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/modou-dia-1a90b9308/"
                 className="p-3 bg-card rounded-lg hover:bg-primary hover:text-primary-foreground transition-colors"
                 aria-label="LinkedIn"
               >
                 <Linkedin size={20} />
               </a>
               <a
-                href="mailto:hello@modoudiar.dev"
+                href="mailto:diamoddou2001@gmil.com"
                 className="p-3 bg-card rounded-lg hover:bg-primary hover:text-primary-foreground transition-colors"
                 aria-label="Email"
               >
