@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[85781,["/portfolioModou/_next/static/chunks/26a5c9fa31723d2b.js","/portfolioModou/_next/static/chunks/e256b8da1afbe2ad.js"],"ViewportBoundary"]
-4:I[85781,["/portfolioModou/_next/static/chunks/26a5c9fa31723d2b.js","/portfolioModou/_next/static/chunks/e256b8da1afbe2ad.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-7:I[35080,["/portfolioModou/_next/static/chunks/26a5c9fa31723d2b.js","/portfolioModou/_next/static/chunks/e256b8da1afbe2ad.js"],"IconMark"]
-0:{"buildId":"rGXcabxCvTs3JHhujAKis","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Modou DIA - AI & Data Engineering Portfolio"}],["$","meta","1",{"name":"description","content":"Portfolio showcasing AI/ML, Data Engineering, and Software Development expertise."}],["$","link","2",{"rel":"icon","href":"/portfolioModou/icone1.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/portfolioModou/icone1.png"}],["$","$L7","4",{}]]

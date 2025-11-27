@@ -1,7 +1,8 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
-import "@/app/globals.css"
+import "./globals.css"
+
 
 import { ClientLayout } from "@/components/client-layout"
 
